@@ -12,5 +12,10 @@ Integrating this feature into IDLE would also involve enhancing its current capa
 
 The implementation of automatic library detection and installation in IDLE would position it as a more robust and user-friendly development environment. It would minimize the barrier to entry for new programmers and improve productivity for seasoned developers. This feature would not only enhance the overall user experience but also promote the adoption of Python by making it easier to get started with various projects without worrying about dependency management.
 
+#
+### Related Links
+
+[Motplotlib Layers](https://github.com/sourceduty/Matplotlib_Layers)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
